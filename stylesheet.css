@@ -1,0 +1,41 @@
+   .heading {
+                padding: 60px;
+                font-size: 25px;
+                text-align: center;
+                background: pink;
+            }
+           
+ 
+            .section {
+               background-color: #FFC0CB;
+               padding: 20px;
+               margin-top: 30px;
+            }
+
+            .movie {
+              background-color: #FFC0CB;
+              padding: 20px;
+              margin-top: 30px;
+            }
+/*Custom heading styles (made by chatgpt)*/
+h1 {
+  font-family: 'Georgia', serif;
+  color:#5f3a60;
+  font-size: 3em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Subhead custom style (made by chatgpt)*/
+h3 {
+  font-size: 2em;
+  color: #9b5f8c;
+}
+/* Special font for extra emphasis on titles (made by chatgpt)*/
+h5 {
+  font-family: 'Courier New', Courier, monospace;
+  color: #8f5c73;
+}
+/* makes a background gradient that is pink(made by chatgpt)*/
+body {
+    background: linear-gradient(to right, #f8bbd0, #f48fb1); /* Soft pink gradient (made by chatgpt)*/
+}
